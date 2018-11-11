@@ -4,6 +4,8 @@ Small CLI utility to toggle do not disturb using Notifications Center in macOS.
 
 It has two self explanatory commands `enable` and `disable`.
 
+![dnd-image](./docs/on.png)
+
 ```
 Utility to toggle macOS do not disturb using notification center
 Usage: 
